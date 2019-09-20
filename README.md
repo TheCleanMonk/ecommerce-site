@@ -6,6 +6,7 @@ The site is just a demonstration of bootstrap 4's potential and some css
 
 To be added
 
+- Login / register
 - More animations 
 - Shopify
 - Subscription button
